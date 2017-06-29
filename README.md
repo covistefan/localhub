@@ -30,5 +30,5 @@ Requires „libzip“ which is bundled with PHP.
 5. put the localhub script call to anywhere you want on your page „<?php require('./localhub/localhub.php‘); ?>“
 
 # Changelog
-1.0
+## Version 1.0
 * first release
